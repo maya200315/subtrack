@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "549611421510",
+    "firebase_url": "https://subtrack-maya-26-default-rtdb.firebaseio.com",
+    "project_id": "subtrack-maya-26",
+    "storage_bucket": "subtrack-maya-26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549611421510:android:721fe69b3f83f7ce322f47",
+        "android_client_info": {
+          "package_name": "com.maya.subtrack.subtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgw_idUMWQIkh60QLSDctmsCNn4TBX-1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

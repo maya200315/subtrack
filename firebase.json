@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "subtrack-maya-26",
+          "appId": "1:549611421510:android:721fe69b3f83f7ce322f47",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "subtrack-maya-26",
+          "configurations": {
+            "android": "1:549611421510:android:721fe69b3f83f7ce322f47",
+            "ios": "1:549611421510:ios:721fe69b3f83f7ce322f47",
+            "macos": "1:549611421510:ios:721fe69b3f83f7ce322f47",
+            "web": "1:549611421510:web:721fe69b3f83f7ce322f47",
+            "windows": "1:549611421510:web:721fe69b3f83f7ce322f47"
+          }
+        }
+      }
+    }
+  }
+}
